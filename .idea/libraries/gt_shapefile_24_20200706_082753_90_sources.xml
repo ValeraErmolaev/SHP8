@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="gt-shapefile-24-20200706.082753-90-sources">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/shp/gt-shapefile-24-20200706.082753-90.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/shp/gt-shapefile-24-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/shp/gt-shapefile-24-20200706.082753-90-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/shp/gt-shapefile-24-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
